@@ -1,7 +1,7 @@
 {
   "domain": "fn_nas",
   "name": "飞牛NAS",
-  "issue_tracker": "https://github.com/Aidan1777/fn_nas",
+  "issue_tracker": "https://github.com/Aidan1777/fn_nas/issues",
   "version": "1.0.2",
   "documentation": "https://github.com/Aidan1777/fn_nas",
   "dependencies": [],
