@@ -1,7 +1,0 @@
-{
-  "name": "飞牛NAS",
-  "render_readme": true,
-  "domains": ["sensor", "binary_sensor", "switch", "button"],
-  "homeassistant": "2024.1.0",
-  "iot_class": "local_polling"
-}
